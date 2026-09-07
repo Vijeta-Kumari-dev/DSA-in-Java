@@ -48,4 +48,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 <!---LeetCode Topics End-->
