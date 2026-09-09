@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -56,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
