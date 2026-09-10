@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +81,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
