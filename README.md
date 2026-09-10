@@ -65,6 +65,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
