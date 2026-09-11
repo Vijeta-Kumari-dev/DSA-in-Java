@@ -13,6 +13,7 @@
 | [1920-build-array-from-permutation](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
