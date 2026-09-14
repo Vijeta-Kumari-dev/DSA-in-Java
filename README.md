@@ -18,6 +18,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
 ## Greedy
@@ -117,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
