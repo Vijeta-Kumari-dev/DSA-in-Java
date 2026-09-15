@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,10 +62,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
