@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -147,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
