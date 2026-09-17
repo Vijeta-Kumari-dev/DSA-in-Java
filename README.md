@@ -13,6 +13,7 @@
 | [0835-image-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0835-image-overlap/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1470-shuffle-the-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1929-concatenation-of-array/) | Easy |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
@@ -80,6 +82,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -154,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
