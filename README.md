@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0835-image-overlap/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1470-shuffle-the-array/) | Easy |
@@ -84,11 +85,13 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0835-image-overlap/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -149,11 +152,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
