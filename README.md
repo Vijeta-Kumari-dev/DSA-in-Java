@@ -13,6 +13,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -88,6 +89,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
