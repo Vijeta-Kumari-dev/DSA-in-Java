@@ -19,6 +19,7 @@
 | [1470-shuffle-the-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
@@ -69,6 +70,7 @@
 | [0410-split-array-largest-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@
 | [0875-koko-eating-bananas](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +145,7 @@
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -182,4 +186,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
