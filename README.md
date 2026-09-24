@@ -25,6 +25,7 @@
 | [1929-concatenation-of-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
