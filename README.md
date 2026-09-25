@@ -81,6 +81,7 @@
 | [0020-valid-parentheses](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -150,6 +151,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -175,6 +177,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -198,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0020-valid-parentheses/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,4 +226,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
