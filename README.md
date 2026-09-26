@@ -21,6 +21,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2029-stone-game-ix/) | Medium |
@@ -83,6 +84,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
@@ -155,6 +157,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vijeta-Kumari-dev/DSA-in-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
